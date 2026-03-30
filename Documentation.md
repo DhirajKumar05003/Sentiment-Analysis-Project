@@ -23,7 +23,7 @@ The project demonstrates the end-to-end pipeline of an NLP system, including dat
 ## 3. Dataset Description
 
 ### 3.1 Source
-(Mention dataset source here, e.g., Kaggle / Twitter / IMDb)
+IMDB Kaggle Dataset
 
 ### 3.2 Structure
 The dataset consists of:
@@ -37,14 +37,7 @@ The dataset consists of:
 | "This product is amazing!" | Positive |
 | "Worst experience ever."   | Negative |
 
-### 3.4 Data Distribution
-- Number of samples: XXXX
-- Class distribution:
-  - Positive: XX%
-  - Negative: XX%
-  - Neutral: XX%
 
----
 
 ## 4. Data Preprocessing
 
