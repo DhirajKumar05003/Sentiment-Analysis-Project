@@ -30,22 +30,14 @@ This project focuses on building a sentiment analysis model that classifies text
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/sentiment-analysis.git
-cd sentiment-analysis
-
-Install dependencies:
-pip install -r requirements.txt
+git clone https://github.com/DhirajKumar05003/Sentiment-Analysis-Project.git
+cd Sentiment-Analysis-Project
 
 ▶️ Usage
 
 Run the Jupyter Notebook:
 
 jupyter notebook
-
-
-Or run the script:
-
-python main.py
 
 📊 Model Workflow
 Data Collection
