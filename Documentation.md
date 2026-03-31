@@ -169,8 +169,8 @@ Harmonic mean of precision and recall.
 
 ## 10. Results and Analysis
 
-- Best performing model: (Specify model)
-- Accuracy achieved: XX%
+- Best performing model: LogisticRegression_TFIDF
+- Accuracy achieved: 89%
 - Observations:
   - Model performs well on short, clear sentences
   - Difficulty in detecting sarcasm and context-heavy text
